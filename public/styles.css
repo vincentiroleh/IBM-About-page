@@ -1,0 +1,108 @@
+html body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  hr {
+    width: 7%;
+  }
+  
+  .banner {
+    height: 200px;
+    background-color: #264F93;
+  }
+  
+  .whiteTitle {
+    color: #ffffff;
+    padding: 45px;
+  }
+  
+  .video-container {
+    max-width: 40.79vw;
+    height: 20.6875vw;
+    min-width: 270px;
+    min-height: 200.5px;
+    position: relative;
+    padding-bottom: 0;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  
+  .cusP-1 {
+    font-size: 1.875em;
+  }
+  
+  .cusP-2 {
+    font-size: 1.38em;
+    max-width: 720px;
+  }
+  
+  .font1dot38em {
+    font-size: 1.38em;
+  }
+  
+  .font1dot2em {
+    font-size: 1.2em;
+  }
+  
+  .font1dot875em {
+    font-size: 1.875em;
+  }
+  
+  .max-w600px {
+    max-width: 600px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .img-6 {
+    min-width: 78px;
+    max-width: 10vw;
+    position: absolute;
+    left: 15vw;
+  }
+  
+  .img-5 {
+    max-width: 70px;
+  }
+  
+  .sect2 {
+    position: relative;
+    background-color: #F8F8F8;
+    height: 280px;
+    width: 100%
+  }
+  
+  .learn-more-banner {
+    background-color: #264E93;
+    height: 160px;
+    padding-top: 50px;
+  }
+  
+  .learn-more-title {
+    font-size: 1.7em;
+    margin-bottom: 30px;
+    color: white;
+  }
+  
+  .bottombutton {
+    background-color: #FFFFFF;
+    border: none;
+    color: black;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+  }
