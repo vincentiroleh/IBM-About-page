@@ -1,0 +1,33 @@
+{
+  "name": "ibm-about-page",
+  "version": "1.0.0",
+  "description": "Static clone of IBM (Africa) About Us page using Node as server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentiroleh/IBM-About-page.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Vincent Iroleh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincentiroleh/IBM-About-page/issues"
+  },
+  "homepage": "https://github.com/vincentiroleh/IBM-About-page#readme",
+  "dependencies": {
+    "cf-deployment-tracker-client": "^0.1.4",
+    "commander": "^2.20.0",
+    "express": "^4.17.1",
+    "http-post": "^0.1.1",
+    "http-proxy": "^1.17.0"
+  }
+}
